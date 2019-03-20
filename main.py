@@ -21,3 +21,4 @@ for char in sentence.split():
        allChar += lst
    print('\n'.join(allChar))
    time.sleep(1)
+print("666")
