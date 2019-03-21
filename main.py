@@ -2,7 +2,12 @@ print("I'm happy to edit this file, it's a test file!")
 print("i am also happy to edit this file!")
 
 print("I'm happy to edit this file too (huaji.jpg)")
+
+print("The North remember.")
+
+
 print("1231231231321123123131321321321321321321231321321321321313132132131313131313")
+
 import time
 sentence = "Dear, I love you forever!"
 for char in sentence.split():
@@ -20,3 +25,4 @@ for char in sentence.split():
        allChar += lst
    print('\n'.join(allChar))
    time.sleep(1)
+print("666")
